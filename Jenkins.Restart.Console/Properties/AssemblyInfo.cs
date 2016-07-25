@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Jenkins.Restart")]
+[assembly: AssemblyTitle("Jenkins.Restart.Console")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Jenkins.Restart")]
+[assembly: AssemblyProduct("Jenkins.Restart.Console")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("2debca49-4b76-4094-8463-ac22a051f0f9")]
+[assembly: Guid("e9857a4a-e0a7-4eb3-a1ba-950ed03e9357")]
 
 // Version information for an assembly consists of the following four values:
 //
